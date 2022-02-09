@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Composition2/UML.jpg</name>
+			<type>1</type>
+			<location>C:/Users/ivani/Pictures/UML.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
