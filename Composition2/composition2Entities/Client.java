@@ -1,4 +1,4 @@
-package entities;
+package composition2Entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

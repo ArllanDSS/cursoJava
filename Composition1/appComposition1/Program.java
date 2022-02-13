@@ -6,9 +6,9 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Department;
-import entities.HourContract;
-import entities.Worker;
+import composition1Entities.Department;
+import composition1Entities.HourContract;
+import composition1Entities.Worker;
 import entities.enums.WorkerLevel;
 
 public class Program {

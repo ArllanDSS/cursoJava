@@ -1,4 +1,4 @@
-package entities;
+package composition1Entities;
 
 public class Department {
 

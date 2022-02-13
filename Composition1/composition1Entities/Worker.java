@@ -1,4 +1,4 @@
-package entities;
+package composition1Entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;

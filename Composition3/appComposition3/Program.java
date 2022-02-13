@@ -4,8 +4,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import entities.Comment;
-import entities.Post;
+import composition3Entities.Comment;
+import composition3Entities.Post;
 
 public class Program {
 

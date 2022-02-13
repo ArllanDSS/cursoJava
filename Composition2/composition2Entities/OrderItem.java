@@ -1,4 +1,5 @@
-package entities;
+package composition2Entities;
+
 
 public class OrderItem {
 

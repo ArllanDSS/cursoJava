@@ -9,5 +9,7 @@
 	<classpathentry kind="src" path="Composition1"/>
 	<classpathentry kind="src" path="Composition2"/>
 	<classpathentry kind="src" path="Composition3"/>
+	<classpathentry kind="src" path="Polymorphism"/>
+	<classpathentry kind="src" path="AbstractClass"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

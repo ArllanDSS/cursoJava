@@ -6,10 +6,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Client;
-import entities.Order;
-import entities.OrderItem;
-import entities.Product;
+import composition2Entities.Client;
+import composition2Entities.Order;
+import composition2Entities.OrderItem;
+import composition2Entities.Product;
 import entities.enums.OrderStatus;
 
 public class Program {
